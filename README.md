@@ -96,6 +96,21 @@ Si se desea utilizar nuevos conjuntos de pruebas, se debe:
 3. Asegurarse de que el nombre del archivo coincida con el utilizado dentro del código.
 
 ---
+# Uso del programa
+
+Al ejecutar el programa se mostrará un menú interactivo en consola.
+
+Primero el usuario debe seleccionar uno de los archivos de procesos disponibles o salir del programa.
+
+Una vez seleccionado el archivo, el sistema mostrará un segundo menú donde se puede elegir el algoritmo de planificación a ejecutar.
+
+Después de ejecutar un algoritmo, el usuario puede:
+
+- ejecutar otro algoritmo con el mismo archivo
+- volver al menú anterior para seleccionar otro archivo de procesos
+- salir del programa
+
+---
 
 # Algoritmos implementados
 
