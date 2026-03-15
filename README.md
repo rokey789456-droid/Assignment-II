@@ -128,3 +128,4 @@ Para el algoritmo **MLQ (Multi-Level Queue)**:
 - Permitir configuraciones dinámicas de colas.
 - Agregar visualización del diagrama de Gantt.
 - Reorganizar el código para evitar duplicación y mejorar la modularidad.
+- Para el algoritmo MLQ (Multi-Level Queue) extender la implementación para permitir un número dinámico de colas (mínimo 2), configurado directamente desde el archivo de entrada o desde parámetros del programa.
