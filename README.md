@@ -1,5 +1,5 @@
 # CPU Scheduling Simulator - Tarea 2
-# Autor: Andres Felipe Cruz
+## Autor: Andres Felipe Cruz
 
 Simulador de algoritmos de planificación de CPU desarrollado en **C++** para la asignatura de **Sistemas Operativos**.
 
